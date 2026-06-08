@@ -18,9 +18,9 @@ Route::get('/', function () {
 // ===== TENTANG =====
 Route::get('/tentang', function () {
     $tim = [
-        ['nama' => 'Rizki Abd. Rahman',  'peran' => 'Full Stack Developer', 'foto' => '👨‍💻'],
-        ['nama' => 'Siti Rahayu',   'peran' => 'UI/UX Designer',       'foto' => '👩‍🎨'],
-        ['nama' => 'Budi Santoso',  'peran' => 'Backend Developer',    'foto' => '👨‍💼'],
+        ['nama' => 'Rizqy Subagja',  'peran' => 'Full Stack Developer', 'foto' => '👨‍💻'],
+        ['nama' => 'Christopher',   'peran' => 'UI/UX Designer',       'foto' => '👩‍🎨'],
+        ['nama' => 'Devin',  'peran' => 'Backend Developer',    'foto' => '👨‍💼'],
     ];
     $keahlian = [
         ['nama' => 'Laravel / PHP', 'level' => 85],
