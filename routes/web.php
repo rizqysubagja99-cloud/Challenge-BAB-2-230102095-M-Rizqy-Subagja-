@@ -80,8 +80,8 @@ Route::get('/blog', function () {
 Route::get('/kontak', function () {
     $info = [
         ['icon' => '📍', 'label' => 'Alamat',    'nilai' => 'Bandung, Jawa Barat'],
-        ['icon' => '📧', 'label' => 'Email',     'nilai' => 'ikirahman@gmail.com'],
-        ['icon' => '📱', 'label' => 'WhatsApp',  'nilai' => '+62 812-3456-7890'],
+        ['icon' => '📧', 'label' => 'Email',     'nilai' => 'rizqysubagja99@gmail.com'],
+        ['icon' => '📱', 'label' => 'WhatsApp',  'nilai' => '+62 889657244137'],
         ['icon' => '🕐', 'label' => 'Jam Kerja', 'nilai' => 'Senin - Jumat, 09:00 - 17:00'],
     ];
     return view('pages.kontak', compact('info'));
