@@ -46,11 +46,11 @@
     <div class="col-md-4">
         <div class="card p-4 text-center">
             <div class="fs-1 mb-2">&#128100;</div>
-            <h5 class="fw-bold mb-1">Rizki Abd. Rahman</h5>
+            <h5 class="fw-bold mb-1">Rizqy Subagja</h5>
             <p class="text-muted small mb-2">Full Stack Developer</p>
             <hr>
             <p class="small text-muted mb-1">&#128205; Bandung, Indonesia</p>
-            <p class="small text-muted mb-1">&#128231; ikirahman@gmail.com</p>
+            <p class="small text-muted mb-1">&#128231; rizqysubagja99@gmail.com</p>
             <p class="small text-muted">&#127891; Teknik Informatika</p>
         </div>
     </div>
