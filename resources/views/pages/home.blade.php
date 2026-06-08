@@ -5,7 +5,7 @@
 
 {{-- Hero Section --}}
 <div class="hero-section text-white text-center">
-    <h1 class="display-5 fw-bold mb-2">Halo, Saya <span style="color:#e3342f">Rizki Abd. Rahman</span></h1>
+    <h1 class="display-5 fw-bold mb-2">Halo, Saya <span style="color:#e3342f">Rizqy Subagja</span></h1>
     <p class="lead text-secondary mb-4">Web Developer &middot; Laravel Enthusiast &middot; UI/UX Lover</p>
     <div class="d-flex justify-content-center gap-3 flex-wrap">
         <a href="{{ route('portofolio') }}" class="btn btn-accent px-4">Lihat Portofolio</a>
